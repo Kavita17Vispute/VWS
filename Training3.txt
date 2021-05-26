@@ -1,1 +1,9 @@
 Training 3 files
+
+<html>
+<head>
+</head>
+<body>
+<p> My work is done for the page</p>
+</body>
+</html>
